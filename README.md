@@ -29,4 +29,4 @@ Don't launch the new page. It performs no better than the current one.
 Python, pandas, statsmodels
 
 ## Data
-[A/B testing dataset on Kaggle]([https://www.kaggle.com/datasets/zhangluyuan/ab-testing]))
+[A/B testing dataset on Kaggle]([https://www.kaggle.com/datasets/zhangluyuan/ab-testing])
